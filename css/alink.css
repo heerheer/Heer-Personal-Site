@@ -1,0 +1,15 @@
+.linkbtn {
+    display: inline-block;
+    border: white solid 1px;
+    border-radius: 5px;
+    height: 50px;
+    width: 140px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    margin: 5px;
+}
+
+h2 {
+    color: white;
+}
